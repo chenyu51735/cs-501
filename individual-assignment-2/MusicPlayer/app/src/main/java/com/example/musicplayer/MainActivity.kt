@@ -75,7 +75,7 @@ fun Player(imageRes: Int, caption: String) {
         ){
             Button(
                 onClick = {},
-            ) {
+            ){
                 Icon(
                     painter = painterResource(id = R.drawable.pause_24px),
                     contentDescription = "Pause"
@@ -83,18 +83,18 @@ fun Player(imageRes: Int, caption: String) {
             }
             Button(
                 onClick = {},
-            ) {
+            ){
                 Icon(
                     painter = painterResource(id = R.drawable.play_arrow_24px),
-                    contentDescription = "Pause"
+                    contentDescription = "Play"
                 )
             }
             Button(
                 onClick = {},
-            ) {
+            ){
                 Icon(
                     painter = painterResource(id = R.drawable.skip_next_24px),
-                    contentDescription = "Pause"
+                    contentDescription = "Skip"
                 )
             }
     }
