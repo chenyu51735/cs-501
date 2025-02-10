@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flashcards>
+    <flashcard>
+        <question>What is 1 + 1?</question>
+        <answer>2</answer>
+    </flashcard>
+    <flashcard>
+        <question>What is 1 + 2?</question>
+        <answer>3</answer>
+    </flashcard>
+    <flashcard>
+        <question>What is 5 + 3</question>
+        <answer>8</answer>
+    </flashcard>
+    <flashcard>
+        <question>What is 2 + 3</question>
+        <answer>5</answer>
+    </flashcard>
+    <flashcard>
+        <question>What is 7 + 2</question>
+        <answer>9</answer>
+    </flashcard>
+    <flashcard>
+        <question>What is 6 + 1</question>
+        <answer>7</answer>
+    </flashcard>
+    <flashcard>
+        <question>What is 4 + 3</question>
+        <answer>7</answer>
+    </flashcard>
+    <flashcard>
+        <question>What is 2 + 9</question>
+        <answer>11</answer>
+    </flashcard>
+</flashcards>
