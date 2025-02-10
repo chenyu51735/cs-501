@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+    <photo>
+        <name>photo1</name>
+    </photo>
+    <photo>
+        <name>photo2</name>
+    </photo>
+    <photo>
+        <name>photo3</name>
+    </photo>
+    <photo>
+        <name>photo4</name>
+    </photo>
+    <photo>
+        <name>photo5</name>
+    </photo>
+    <photo>
+        <name>photo6</name>
+    </photo>
+    <photo>
+        <name>photo7</name>
+    </photo>
+    <photo>
+        <name>photo8</name>
+    </photo>
+    <photo>
+        <name>photo9</name>
+    </photo>
+    <photo>
+        <name>photo10</name>
+    </photo>
+    <photo>
+        <name>photo11</name>
+    </photo>
+    <photo>
+        <name>photo12</name>
+    </photo>
+
+</photos>
